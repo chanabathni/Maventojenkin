@@ -1,0 +1,6 @@
+2021-05-25 11:26:13,472 WARN  [SoapUI] Missing folder [C:\Users\CAjaykumarChanabathn\Desktop\HandsonProject\my-app\ext] for external libraries
+2021-05-25 11:26:13,774 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\CAjaykumarChanabathn\soapui-settings.xml]
+2021-05-25 11:26:26,377 INFO  [WsdlProject] Loaded project from [file:/C:/Users/CAjaykumarChanabathn/Desktop/HandsonProject/my-app/Soap-soapui-project.xml]
+2021-05-25 11:26:26,522 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Soap]
+2021-05-25 11:26:26,523 INFO  [SoapUITestCaseRunner] Running Project [Soap], runType = SEQUENTIAL
+2021-05-25 11:26:26,528 INFO  [SoapUITestCaseRunner] Project [Soap] finished with status [FINISHED] in 0ms
